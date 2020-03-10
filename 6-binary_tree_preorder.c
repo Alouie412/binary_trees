@@ -1,9 +1,9 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_preorder - Function that prints the binary tree value
- * using preorder method
- * @tree: The root of the binary tree
+ * binary_tree_preorder - Function that traverses and prints
+ * the binary tree values using preorder method
+ * @tree: The current node
  * @func: The passed in function
  * Return: Nothing
  */
